@@ -1,0 +1,2 @@
+# Conventional_Machine_Learning_Approaches_for_solving_Highly_Imbalanced_dataset
+Covers detailed approaches of solving Highly Imbalanced dataset classification problem using various Hybrid Techniques (different combinations involving: One-Hot Encoding Technique, Smote Analysis, Feature Engineering and Selection Methods, Building ML Classifiers using GBM, Random Forest, Logistic Regression etc.). I have also implemented Fine-Tuning Techniques using GridSearchCV for improvising the Random-Forest Classifier. 
